@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <math.h>
 
 int main() {
-	printf("Hello world\n");
-	printf("Second string\n");
+	int a = 100;
+	int b = 200;
+	printf("Result %d", a + b);
+	return 0;	
 }
