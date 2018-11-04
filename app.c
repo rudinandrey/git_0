@@ -4,6 +4,6 @@
 int main() {
 	int a = 100;
 	int b = 200;
-	printf("Result %d", a + b);
+	printf("Result %d\n", a + b);
 	return 0;	
 }
